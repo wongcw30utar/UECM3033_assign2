@@ -51,7 +51,7 @@ Put here your picture file:
 - Initially, fragment of code is given in `task2.py` and it is able to read an image and separate it's RGB values into 3 different arrays.
 - Note that Singular Value Decomposition is needed for image compression. Thus, `numpy.linalg.svd` is used for computing $\Sigma$, U and V<sup>T</sup> for each R,G,B arrays.
 - Create new matrix $\Sigma$30 which is same dimensions as $\Sigma$, but keeping first 30 non zero elements, and set the remaining non zero elements to zero.
-- Performing multiplication between U,$\Sigma$30,V<sup>T<sup>. A new R,G,B value is generated.
+- Performing multiplication between U,$\Sigma$30,V<sup>T</sup>. A new R,G,B value is generated.
 - Combine 3 seperated new R,G,B arrays into one, and show it.
 - A compressed image is generated.
 - Next, repeat the same procedure as mentioned above, but this time keep the first 200 non zero elements for $\Sigma$.
