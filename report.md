@@ -33,7 +33,7 @@ The reports, codes and supporting documents are to be uploaded to Github at:
 
 Put here your picture file:
 
-![Ari_1000_800.png](Ari_1000_800.png)
+![Ari_1000_800.jpg](Ari_1000_800.jpg)
 
 #####  How many non zero element in $\Sigma$?
 - Given $\Sigma$ is a _N_ x _M_ matrix and assume all σ are non zero.
